@@ -1,2 +1,2 @@
 # oauth2-demo
-实现oauth2四种方式
+实现oauth2五种方式
